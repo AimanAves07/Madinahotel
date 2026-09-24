@@ -1,0 +1,6 @@
+{
+  "name": "Khan's Restaurant",
+  "description": "Authentic South Indian and Indian cuisine in Channapatna, Karnataka. Delicious dosas, aromatic biryanis, table reservation, and online food ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
